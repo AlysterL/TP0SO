@@ -1,0 +1,107 @@
+[INFO] 21:48:03:859 Servidor/(8930:8930): Servidor listo para recibir al cliente
+[INFO] 21:50:06:565 Servidor/(9015:9015): Servidor listo para recibir al cliente
+[INFO] 21:50:36:397 Servidor/(9057:9057): Servidor listo para recibir al cliente
+[INFO] 21:50:46:783 Servidor/(9073:9073): Servidor listo para recibir al cliente
+[INFO] 22:00:00:053 Servidor/(9283:9283): Servidor listo para recibir al cliente
+[INFO] 22:05:59:263 Servidor/(9489:9489): Servidor listo para recibir al cliente
+[INFO] 22:15:00:337 Servidor/(9908:9908): Servidor listo para recibir al cliente
+[INFO] 22:15:38:439 Servidor/(9951:9951): Servidor listo para recibir al cliente
+[INFO] 22:26:09:494 Servidor/(10107:10107): Servidor listo para recibir al cliente
+[INFO] 22:32:49:456 Servidor/(10322:10322): Servidor listo para recibir al cliente
+[INFO] 22:37:59:336 Servidor/(10497:10497): Servidor listo para recibir al cliente
+[INFO] 22:42:15:397 Servidor/(10647:10647): Servidor listo para recibir al cliente
+[INFO] 22:42:51:449 Servidor/(10704:10704): Servidor listo para recibir al cliente
+[INFO] 22:58:31:984 Servidor/(11175:11175): Servidor listo para recibir al cliente
+[INFO] 22:58:37:132 Servidor/(11187:11187): Servidor listo para recibir al cliente
+[INFO] 23:06:42:672 Servidor/(11566:11566): Servidor listo para recibir al cliente
+[INFO] 23:11:34:568 Servidor/(11707:11707): Servidor listo para recibir al cliente
+[INFO] 23:11:46:241 Servidor/(11727:11727): Servidor listo para recibir al cliente
+[INFO] 23:20:04:863 Servidor/(12467:12467): Servidor listo para recibir al cliente
+[INFO] 23:26:23:596 Servidor/(12575:12575): Servidor listo para recibir al cliente
+[INFO] 23:26:37:040 Servidor/(12620:12620): Servidor listo para recibir al cliente
+[INFO] 23:34:48:006 Servidor/(12731:12731): Servidor listo para recibir al cliente
+[INFO] 23:34:58:832 Servidor/(12751:12751): Servidor listo para recibir al cliente
+[INFO] 23:37:18:571 Servidor/(12834:12834): Servidor listo para recibir al cliente
+[INFO] 19:33:02:461 Servidor/(3052:3052): Servidor listo para recibir al cliente
+[INFO] 19:39:50:853 Servidor/(3052:3052): Se conecto un cliente!
+[INFO] 19:39:50:855 Servidor/(3052:3052): Me llego el mensaje 2104
+[INFO] 19:41:47:228 Servidor/(5347:5347): Servidor listo para recibir al cliente
+[INFO] 19:43:39:915 Servidor/(7668:7668): Servidor listo para recibir al cliente
+[INFO] 19:43:59:003 Servidor/(7668:7668): Se conecto un cliente!
+[INFO] 19:43:59:003 Servidor/(7668:7668): Me llego el mensaje 2104
+[INFO] 19:44:41:488 Servidor/(8239:8239): Servidor listo para recibir al cliente
+[INFO] 19:45:00:213 Servidor/(12540:12540): Servidor listo para recibir al cliente
+[INFO] 19:45:35:237 Servidor/(19303:19303): Servidor listo para recibir al cliente
+[INFO] 19:45:44:541 Servidor/(19303:19303): Se conecto un cliente!
+[INFO] 19:45:44:543 Servidor/(19303:19303): Me llego el mensaje 2104
+[ERROR] 19:45:50:353 Servidor/(19303:19303): el cliente se desconecto. Terminando servidor
+[INFO] 19:46:25:121 Servidor/(22092:22092): Servidor listo para recibir al cliente
+[INFO] 19:46:55:569 Servidor/(22092:22092): Se conecto un cliente!
+[INFO] 19:46:55:588 Servidor/(22092:22092): Me llego el mensaje 2104
+[INFO] 19:49:13:406 Servidor/(34437:34437): Servidor listo para recibir al cliente
+[INFO] 19:50:00:376 Servidor/(34437:34437): Se conecto un cliente!
+[INFO] 19:50:00:377 Servidor/(34437:34437): Me llego el mensaje 2104
+[INFO] 19:52:17:906 Servidor/(58082:58082): Servidor listo para recibir al cliente
+[INFO] 19:52:44:768 Servidor/(58082:58082): Se conecto un cliente!
+[INFO] 19:52:44:768 Servidor/(58082:58082): Me llego el mensaje 2104
+[INFO] 19:58:29:511 Servidor/(95215:95215): Servidor listo para recibir al cliente
+[INFO] 19:59:04:902 Servidor/(95215:95215): Se conecto un cliente!
+[INFO] 19:59:04:903 Servidor/(95215:95215): Me llego el mensaje 2104
+[INFO] 19:59:17:732 Servidor/(95215:95215): Me llegaron los siguientes valores:
+
+[INFO] 19:59:17:735 Servidor/(95215:95215): ekfekf
+[INFO] 19:59:17:736 Servidor/(95215:95215): fekfekkf
+[INFO] 19:59:17:736 Servidor/(95215:95215): kekekekdede
+[INFO] 19:59:17:736 Servidor/(95215:95215): 
+[ERROR] 19:59:17:736 Servidor/(95215:95215): el cliente se desconecto. Terminando servidor
+[INFO] 20:00:07:592 Servidor/(96987:96987): Servidor listo para recibir al cliente
+[INFO] 20:00:37:020 Servidor/(96987:96987): Se conecto un cliente!
+[INFO] 20:00:37:021 Servidor/(96987:96987): Me llego el mensaje 2104
+[INFO] 20:01:04:795 Servidor/(98385:98385): Servidor listo para recibir al cliente
+[INFO] 20:02:13:409 Servidor/(99600:99600): Servidor listo para recibir al cliente
+[INFO] 20:02:47:083 Servidor/(99600:99600): Se conecto un cliente!
+[INFO] 20:02:47:084 Servidor/(99600:99600): Me llego el mensaje 2104
+[INFO] 20:03:19:716 Servidor/(100491:100491): Servidor listo para recibir al cliente
+[INFO] 20:04:55:936 Servidor/(101961:101961): Servidor listo para recibir al cliente
+[INFO] 20:05:27:484 Servidor/(101961:101961): Se conecto un cliente!
+[INFO] 20:05:27:488 Servidor/(101961:101961): Me llego el mensaje 2104
+[INFO] 20:09:12:029 Servidor/(111776:111776): Servidor listo para recibir al cliente
+[INFO] 20:09:50:149 Servidor/(111776:111776): Se conecto un cliente!
+[INFO] 20:09:50:158 Servidor/(111776:111776): Me llego el mensaje 2104
+[INFO] 20:10:17:656 Servidor/(112465:112465): Servidor listo para recibir al cliente
+[INFO] 20:10:46:804 Servidor/(112517:112517): Servidor listo para recibir al cliente
+[INFO] 20:11:31:764 Servidor/(112541:112541): Servidor listo para recibir al cliente
+[INFO] 20:11:47:878 Servidor/(112541:112541): Se conecto un cliente!
+[INFO] 20:11:47:879 Servidor/(112541:112541): Me llego el mensaje 2104
+[INFO] 20:12:05:539 Servidor/(112627:112627): Servidor listo para recibir al cliente
+[INFO] 20:12:29:445 Servidor/(112665:112665): Servidor listo para recibir al cliente
+[INFO] 20:12:53:287 Servidor/(112685:112685): Servidor listo para recibir al cliente
+[INFO] 20:13:43:008 Servidor/(112710:112710): Servidor listo para recibir al cliente
+[INFO] 20:15:12:532 Servidor/(112710:112710): Se conecto un cliente!
+[INFO] 20:15:12:533 Servidor/(112710:112710): Me llego el mensaje 2104
+[INFO] 20:16:01:916 Servidor/(112820:112820): Servidor listo para recibir al cliente
+[INFO] 20:17:16:067 Servidor/(112869:112869): Servidor listo para recibir al cliente
+[INFO] 20:17:27:779 Servidor/(112887:112887): Servidor listo para recibir al cliente
+[INFO] 20:18:00:794 Servidor/(112887:112887): Se conecto un cliente!
+[INFO] 20:18:00:796 Servidor/(112887:112887): Me llego el mensaje 2104
+[ERROR] 20:18:33:720 Servidor/(112887:112887): el cliente se desconecto. Terminando servidor
+[INFO] 20:18:47:351 Servidor/(112939:112939): Servidor listo para recibir al cliente
+[INFO] 20:19:08:996 Servidor/(112939:112939): Se conecto un cliente!
+[INFO] 20:19:08:997 Servidor/(112939:112939): Me llego el mensaje 2104
+[INFO] 20:19:44:284 Servidor/(112973:112973): Servidor listo para recibir al cliente
+[INFO] 20:20:29:674 Servidor/(113014:113014): Servidor listo para recibir al cliente
+[INFO] 20:20:51:144 Servidor/(113035:113035): Servidor listo para recibir al cliente
+[INFO] 20:21:38:984 Servidor/(113058:113058): Servidor listo para recibir al cliente
+[INFO] 20:21:46:926 Servidor/(113070:113070): Servidor listo para recibir al cliente
+[INFO] 20:22:01:691 Servidor/(113070:113070): Se conecto un cliente!
+[INFO] 20:22:01:695 Servidor/(113070:113070): Me llego el mensaje 2104
+[INFO] 20:23:39:658 Servidor/(113126:113126): Servidor listo para recibir al cliente
+[INFO] 20:24:01:110 Servidor/(113126:113126): Se conecto un cliente!
+[INFO] 20:24:01:110 Servidor/(113126:113126): Me llego el mensaje 2104
+[INFO] 20:24:11:062 Servidor/(113126:113126): Me llegaron los siguientes valores:
+
+[INFO] 20:24:11:062 Servidor/(113126:113126): lea5
+[INFO] 20:24:11:063 Servidor/(113126:113126): lea6
+[INFO] 20:24:11:063 Servidor/(113126:113126): lea7
+[INFO] 20:24:11:063 Servidor/(113126:113126): 
+[ERROR] 20:24:11:063 Servidor/(113126:113126): el cliente se desconecto. Terminando servidor
